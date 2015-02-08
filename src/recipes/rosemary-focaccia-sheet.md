@@ -5,7 +5,7 @@ title: Rosemary Focaccia Sheet
 ---
 This, too, is from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-bread-bi.html).  It's a difficult recipe, because the dough is so wet.  It has a few of my modifications in it.
 
-![](/img/P1010007.JPG]
+![](/img/P1010007.JPG)
 # Ingredients
 
 * 450g all-purpose flour (use something good)

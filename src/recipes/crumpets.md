@@ -3,7 +3,7 @@ categories: [bread, meal-breakfast, cookbook-bread-bible--rose-]
 title: Crumpets
 
 ---
-![](/img/P1010004.JPG]
+![](/img/P1010004.JPG)
 This is another one from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-bread-bi.html).  It's easy and tasty.
 # Ingredients
 

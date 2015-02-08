@@ -9,7 +9,7 @@ Here's the math: Rose's bagel recipe calls for a yeast : water : flour ratio of 
 Now the challenge is to adapt Rose's potato buttermilk recipe to bagel standards.  The potato buttermilk bread's ratio is .39% : 41% : 58% -- a good bit wetter.  She compensates for this with the use of bread flour and vital wheat gluten, producing a bread with approximately the same crumb as her basic white bread.  
 
 So to make this a bagel recipe, I'll start with the potato buttermilk recipe, add 1-2% more vital wheat gluten, double the recipe (just for volume), up the yeast, and make my usual substitution of yogurt for buttermilk.
-![](/img/Lumpy.jpg]
+![](/img/Lumpy.jpg)
 # To Do
 
 * These came out a bit burned and overboiled (they have that waterlogged feel to them).  I'm thinking that the boiling basically needs to be a quick scalding?

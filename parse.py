@@ -23,7 +23,7 @@ def get_categories(wiki):
 
 def images(wiki):
     img_re = re.compile(r'\[\[Image:([^|\]]*)(?:|[^\]]*)?\]\]')
-    return img_re.sub(r'![](/img/\1]', wiki)
+    return img_re.sub(r'![](/img/\1)', wiki)
 
 
 def links(wiki):
@@ -96,7 +96,7 @@ def process(filename):
         wiki = headers(wiki)
         wiki = notoc(wiki)
         dest_filename = slugify(title) + '.md'
-        with open('recipes/' + dest_filename, 'w') as d:
+        with open('src/recipes/' + dest_filename, 'w') as d:
             print >>d, '---'
             print >>d, yaml.dump({
                 'title': title,
