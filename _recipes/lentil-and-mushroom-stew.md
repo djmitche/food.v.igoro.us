@@ -5,7 +5,7 @@ meal: [Soup]
 title: Lentil and Mushroom Stew
 
 ---
-This is from [1000 Vegetarian Recipes](1000-vegetarian-recipes.html).  It's made with a different kind of lentils, and it's bland but palatable.  Definitely not on the favorites list, but it's easy to make with at-hand ingredients.
+This is from 1000 Vegetarian Recipes.  It's made with a different kind of lentils, and it's bland but palatable.  Definitely not on the favorites list, but it's easy to make with at-hand ingredients.
 
 # Ingredients
 
@@ -28,3 +28,4 @@ This is from [1000 Vegetarian Recipes](1000-vegetarian-recipes.html).  It's made
  1. add mushrooms and allow to soften
  1. add the water, boil, and add the lentils and bay leaf.  Boil, then simmer 25 minutes
  1. add remaining ingredients and simmer 15 minutes
+

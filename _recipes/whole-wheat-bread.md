@@ -4,7 +4,7 @@ ingredient: [Whole Wheat Flour]
 title: Whole Wheat Bread
 
 ---
-This recipe makes a whole wheat loaf that comes out just like you'd expect -- the texture is a bit coarse and the flavor is wheaty, with some sweetness.  While it began its life in [|Gelles](1000-vegetarian-recipes.html), I've modified it (using advice from [|Alton Brown](i-m-just-here-for-more-food.html)) to use a sponge.
+This recipe makes a whole wheat loaf that comes out just like you'd expect -- the texture is a bit coarse and the flavor is wheaty, with some sweetness.  While it began its life in Gelles' 1000 Vegetarian Recipes, I've modified it (using advice from Alton Brown) to use a sponge.
 
 # Ingredients
 
@@ -31,3 +31,4 @@ This recipe makes a whole wheat loaf that comes out just like you'd expect -- th
  1. Rise until doubled -- 1-2h.
  1. Fold down and shape the dough into a loaf.  Rise about 30 minutes.
  1. Bake at 350 for about 45m or until the loaf is browned.  Rotate midway through the baking.
+

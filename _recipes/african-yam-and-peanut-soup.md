@@ -6,7 +6,7 @@ meal: [Soup]
 title: African Yam and Peanut Soup
 
 ---
-This is a great soup from the [rebar modern food cookbook](rebar-modern-food-cookbook.html) -- the peanut and yam are just wonderful together.  This makes an enormous quantity of soup.  If you don't have an immersion blender, it will also likely make an enormous mess.  You have been warned.
+This is a great soup from the Rebar Modern Food Cookbook -- the peanut and yam are just wonderful together.  This makes an enormous quantity of soup.  If you don't have an immersion blender, it will also likely make an enormous mess.  You have been warned.
 
 # Ingredients
 
@@ -39,3 +39,4 @@ This is a great soup from the [rebar modern food cookbook](rebar-modern-food-coo
  1. Puree until smooth.
  1. Simmer for another 10 minutes
  1. Add cilantro, lime juice and hot sauce to taste before serving.
+

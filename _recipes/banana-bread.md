@@ -4,7 +4,7 @@ meal: [Dessert]
 title: Banana Bread
 
 ---
-This is my go-to recipe whenever I don't manage to eat my bananas.  It works with bananas from the time they get brown spots until they're totally brown.  Once they're brown and shriveled, well, it's too late.  Like most of my go-to recipes, this one is from [Irma S. Rombauer's Joy of Cooking](irma-s--rombauer-s-joy-of-cook.html).  I've left out the nuts, because I don't like them.
+This is my go-to recipe whenever I don't manage to eat my bananas.  It works with bananas from the time they get brown spots until they're totally brown.  Once they're brown and shriveled, well, it's too late.  Like most of my go-to recipes, this one is from Irma S. Rombauer's Joy of Cooking.  I've left out the nuts, because I don't like them.
 
 # Ingredients
 
@@ -28,3 +28,4 @@ This is my go-to recipe whenever I don't manage to eat my bananas.  It works wit
 # Notes
 
 I like a little saltiness in my banana bread, so I always use coarse sea salt in this recipe.  The result is little gems of salt in the final loaf.
+

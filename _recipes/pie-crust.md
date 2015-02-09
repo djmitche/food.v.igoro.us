@@ -3,7 +3,7 @@ cookbook: [Joy of Cooking]
 title: Pie Crust
 
 ---
-This is the recipe for pie crust that I always follow.  For a slightly different take, see Amber's [|rhubarb pie recipe](rhubarb-pie.html).  This one is straight from the source: [Irma S. Rombauer's Joy of Cooking](irma-s--rombauer-s-joy-of-cook.html).  It makes two 9" crusts.
+This is the recipe for pie crust that I always follow.  For a slightly different take, see Amber's [|rhubarb pie recipe](rhubarb-pie.html).  This one is straight from the source: Irma S. Rombauer's Joy of Cooking].  It makes two 9" crusts.
 
 # Ingredients
 
@@ -29,3 +29,4 @@ This is the recipe for pie crust that I always follow.  For a slightly different
   1. When you're ready to transfer to the pie plate, fold the dough in half across its center, then fold that in half again, leaving a right-angle wedge of dough.  Position the center of the wedge in the center of the pie plate, and gently unfold.
 
 Follow the recipe's instructions from here on out regarding pre-baking, covering, venting, etc.  Crust gets a nice sheen from either egg whites or milk, both of which will hold a sprinkling of granulated sugar quite nicely.  Do something exciting, like weaving the top crust or carving a portrait of your cat as a vent.
+

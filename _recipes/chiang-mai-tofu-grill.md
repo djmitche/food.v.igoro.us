@@ -5,7 +5,7 @@ meal: [Dinner]
 title: Chiang Mai Tofu Grill
 
 ---
-This is straight out of [Rebar modern food cookbook](rebar-modern-food-cookbook.html).
+This is straight out of Rebar Modern Food Cookbook.
 
 # Ingredients
 
@@ -28,3 +28,4 @@ This is straight out of [Rebar modern food cookbook](rebar-modern-food-cookbook.
 * heat the rest of the oil in a wok and stir-fry the veggies, using a bit of the tofu marinade for seasoning
 
 Serve the stir-fry over the tofu, drizzled with a bit of the sauce, and topped with chopped peanuts and cilantro.
+

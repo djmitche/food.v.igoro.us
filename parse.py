@@ -107,11 +107,5 @@ def main():
     for f in sys.argv[1:]:
         process(f)
 
-    print
-    print "Unresolved Links:"
-    for link in all_links:
-        if not os.path.exists("_recipes/" + link + ".md"):
-            print link
-
 if __name__ == "__main__":
     main()

@@ -4,7 +4,7 @@ favorites: [Dustin]
 title: Rosemary Focaccia Sheet
 
 ---
-This, too, is from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-bread-bi.html).  It's a difficult recipe, because the dough is so wet.  It has a few of my modifications in it.
+This, too, is from Rose Levy Berenbaum's Bread Bible.  It's a difficult recipe, because the dough is so wet.  It has a few of my modifications in it.
 
 ![](/img/P1010007.JPG)
 # Ingredients
@@ -38,3 +38,4 @@ A kitchenaid is required for this recipe.  Trust me.  You'll also want a silpat.
 # Notes
 
 If the dough never cleans the bowl, then your dough is short on gluten.  This recipe depends on gluten formation to hold the extremely soupy dough together, the result being a dough with an enormous crumb and incredibly light texture.  There are two things you can do -- increase the flour (which will reduce the soupiness, resulting in a more dense loaf), or increase the gluten, either with a harder flour or by the addition of more vital wheat gluten.
+

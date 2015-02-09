@@ -4,7 +4,7 @@ favorites: [Dustin]
 title: Basic soft white sandwich loaf
 
 ---
-Another recipe from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-bread-bi.html), this one is a nice, easy sandwich loaf.
+Another recipe from Rose Levy Berenbaum's Bread Bible, this one is a nice, easy sandwich loaf.
 
 # Ingredients
 
@@ -31,3 +31,4 @@ Another recipe from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-br
  1. Rise the dough until doubled (1.5-2h), give it two business letter folds, and rise it again (1-2h).
  1. Shape and pan the dough and rise it for 1.5-2h
  1. Bake at 350 for 50m, adding steam at the beginning of the baking.
+

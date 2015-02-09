@@ -4,7 +4,7 @@ ingredient: [Durum Flour]
 title: Semolina Baguette
 
 ---
-This one is based on [|Rose's](bread-bible--rose-.html) ''Golden Semolina Torpedo'', but since I don't have the relevant torpedo mold, I baked it in my baguette mold.  I use ''Golden Temple'' Durum Atta, of which I bought a large bag on Devon street.
+This one is based on Rose Levy Beranbaum's ''Golden Semolina Torpedo'', but since I don't have the relevant torpedo mold, I baked it in my baguette mold.  I use ''Golden Temple'' Durum Atta, of which I bought a large bag on Devon street.
 
 # Ingredients
 
@@ -28,3 +28,4 @@ This one is based on [|Rose's](bread-bible--rose-.html) ''Golden Semolina Torped
 # Notes
 
 Rose's baking instructions are specific to using the La Cloche; the above are a rough reconstruction of what I tried, which seemed to work well.
+

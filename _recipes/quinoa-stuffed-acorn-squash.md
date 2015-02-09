@@ -5,7 +5,7 @@ meal: [Dinner]
 title: Quinoa-stuffed Acorn Squash
 
 ---
-I have a hard time liking squash, for some reason.  But this recipe adds some other interesting flavors.  It's from [Irma S. Rombauer's Joy of Cooking](irma-s--rombauer-s-joy-of-cook.html).
+I have a hard time liking squash, for some reason.  But this recipe adds some other interesting flavors.  It's from Irma S. Rombauer's Joy of Cooking.
 
 # Ingredients
 
@@ -28,3 +28,4 @@ I have a hard time liking squash, for some reason.  But this recipe adds some ot
  1. Season remaining squash with salt and pepper.
  1. Combine quinoa and squash with nuts, parsely, and half of the cheese.
  1. Spoon mixture into squash halves, sprinkle remaining cheese on top, and bake until heated through (about 20m).
+

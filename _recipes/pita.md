@@ -4,7 +4,7 @@ meal: [Breakfast]
 title: Pita
 
 ---
-This recipe is from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-bread-bi.html).  It's really easy, and makes a great breakfast.
+This recipe is from Rose Levy Berenbaum's Bread Bible.  It's really easy, and makes a great breakfast.
 
 # Ingredients
 
@@ -27,3 +27,4 @@ This recipe is from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-br
 I usually divide the dough into pieces, pop them in little 1/2 cup tupperwares, and toss them in the freezer. Every evening I put one of those containers in the fridge to thaw, then roll it out in the morning before my shower.  After the shower, I fire up a burner, throw the pita on, and head off to work with a nice warm snack.
 
 Thanks to Amber Pawula for recommending this particular process!
+

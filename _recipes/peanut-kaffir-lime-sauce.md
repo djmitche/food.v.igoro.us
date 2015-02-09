@@ -4,7 +4,7 @@ ingredient: [Coconut Milk]
 title: Peanut-Kaffir Lime Sauce
 
 ---
-This is part of [Chiang Mai Tofu Grill](chiang-mai-tofu-grill.html) from [Rebar Modern Food Cookbook](rebar-modern-food-cookbook.html).  It's really good on its own, though, and would probably fit well on wide noodles, with broccoli, etc.
+This is part of [Chiang Mai Tofu Grill](chiang-mai-tofu-grill.html) from Rebar Modern Food Cookbook.  It's really good on its own, though, and would probably fit well on wide noodles, with broccoli, etc.
 
 This is a really strong sauce, which improves with age.
 
@@ -30,3 +30,4 @@ This is a really strong sauce, which improves with age.
 # Notes
 
 I made this recipe and used it immediately, and was overwhelmed by the the coconut milk.  I refrigerated it (it solidified) and then reheated it the next day, and the flavors are perfectly balanced.  Word to the wise.
+

@@ -5,7 +5,7 @@ title: Crumpets
 
 ---
 ![](/img/P1010004.JPG)
-This is another one from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum-s-bread-bi.html).  It's easy and tasty.
+This is another one from Rose Levy Berenbaum's Bread Bible.  It's easy and tasty.
 # Ingredients
 
 * 156g all-purpose flour
@@ -29,3 +29,4 @@ This is another one from [Rose Levy Berenbaum's Bread Bible](rose-levy-berenbaum
 
 
 If you don't have crumpet molds, don't bother with this recipe.  If allowed to free-form, these come out more like savory pancakes than crumpets.  With the mold, they push up and get nice and thick.  In the process, all of the rising agents (baking soda, yeast, and steam) create some nice big bubbles that make the center delicious and tender.
+

@@ -6,7 +6,7 @@ meal: [Soup]
 title: Greek Red Lentil Soup
 
 ---
-This is from the [rebar modern food cookbook](rebar-modern-food-cookbook.html).
+This is from the Rebar Modern Food Cookbook.
 
 # Ingredients
 
@@ -34,3 +34,4 @@ This is from the [rebar modern food cookbook](rebar-modern-food-cookbook.html).
  1. remove leaves and puree part of the soup, leaving the rest for texture
  1. add lemon zest and juice, salt, and pepper to taste
  1. top  with feta, rosemary, and pepper before serving
+
