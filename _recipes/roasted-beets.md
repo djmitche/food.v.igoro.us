@@ -4,16 +4,19 @@ meal: [Salad]
 title: Roasted beets
 
 ---
+
 # Remarks
 
 Beets are sooooo good.  mmmmmmm.  Cippoline onions are sweet.
 
+
 # Ingredients
 
-*Some quantity of beets
-*Some pearl or cippoline onions, roughly 1 per 3 beets but however many you want
-*garlic cloves (optional)
-*olive oil (optional)
+ * Some quantity of beets
+ * Some pearl or cippoline onions, roughly 1 per 3 beets but however many you want
+ * garlic cloves (optional)
+ * olive oil (optional)
+
 
 # Instructions
 

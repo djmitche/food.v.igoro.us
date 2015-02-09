@@ -9,13 +9,16 @@ These are my favorite snack.  They're nature's little pre-packaged food items!
 
 This is a recipe in development, as far as timing goes.
 
+
 # Ingredients
 
 Eggs (duhhh)
 
+
 # Instructions
 
 Cover eggs with water, bring to a boil, reduce to a simmer and simmer for 13 minutes.  Remove eggs from water and allow to air-cool.
+
 
 # Notes
 

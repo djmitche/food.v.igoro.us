@@ -5,22 +5,24 @@ title: Moroccan Lamb
 
 ---
 This is a highly modified version of Moroccan Slow-Cooked Lamb from epicurious.com.
+
 # Ingredients
 
-*medium onion
-*1T tomato paste
-*1/2 c stock
-*1t cumin
-*2t coriander
-*1t fennel seeds
-*cinnamon to taste (~ 1 T)
-*1/2 c golden raisins (or more)
-*1/2 c chopped dried apricots (or more)
-*1T minced ginger
-*grated rind of 1/2 lemon
-*1 lb ground lamb
-*cayenne
-*cilantro
+ * medium onion
+ * 1T tomato paste
+ * 1/2 c stock
+ * 1t cumin
+ * 2t coriander
+ * 1t fennel seeds
+ * cinnamon to taste (~ 1 T)
+ * 1/2 c golden raisins (or more)
+ * 1/2 c chopped dried apricots (or more)
+ * 1T minced ginger
+ * grated rind of 1/2 lemon
+ * 1 lb ground lamb
+ * cayenne
+ * cilantro
+
 
 # Instructions
 

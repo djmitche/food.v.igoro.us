@@ -5,15 +5,17 @@ title: Buttermilk Honey Bread
 ---
 This is Beth Hensperger's buttermilk honey bread, from her <i>Bread Bible</i>.
 
+
 # Ingredients
 
-* 3/4 C water
-* 1 T yeast
-* 1 T sugar
-* 1.5 C buttermilk (consisder substituting [|yogurt](yogurt.html))
-* 2 T butter (melted)
-* 3 T honey
-* 6-6.25 C regular or bread flour
+ *  3/4 C water
+ *  1 T yeast
+ *  1 T sugar
+ *  1.5 C buttermilk (consisder substituting [yogurt](yogurt.html))
+ *  2 T butter (melted)
+ *  3 T honey
+ *  6-6.25 C regular or bread flour
+
 
 # Instructions
 

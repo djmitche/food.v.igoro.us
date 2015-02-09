@@ -4,18 +4,20 @@ meal: [Dinner]
 title: Mexican Yams 'n' Beans
 
 ---
+
 # Ingredients
 
-*1 small yam per person
-*1 diced onion
-*1-3 minced garlic cloves
-*1-2 t cumin
-*1 can black beans
-*1 chopped tomato
-*sharp cheddar cheese
-*plain yogurt or sour cream
-*salsa
-*cilantro
+ * 1 small yam per person
+ * 1 diced onion
+ * 1-3 minced garlic cloves
+ * 1-2 t cumin
+ * 1 can black beans
+ * 1 chopped tomato
+ * sharp cheddar cheese
+ * plain yogurt or sour cream
+ * salsa
+ * cilantro
+
 
 # Instructions
 

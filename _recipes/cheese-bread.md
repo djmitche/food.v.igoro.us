@@ -4,19 +4,21 @@
 ---
 This is Liz Berke's cheese-bread recipe
 
+
 # Ingredients
 
-* 1 pk active dry yeast (1.25 T)
-* 1/4 C warm water
-* 3/4 C shredded cheddar
-* 2 T sugar
-* 1 t salt
-* 2 T shortening
-* 3/4 C hot water
-* 3-3.5 C flour
-* 1 egg
-* 1 t dry mustard
-* pinch cayenne pepper
+ *  1 pk active dry yeast (1.25 T)
+ *  1/4 C warm water
+ *  3/4 C shredded cheddar
+ *  2 T sugar
+ *  1 t salt
+ *  2 T shortening
+ *  3/4 C hot water
+ *  3-3.5 C flour
+ *  1 egg
+ *  1 t dry mustard
+ *  pinch cayenne pepper
+
 
 # Instructions
 

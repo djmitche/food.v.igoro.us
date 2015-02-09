@@ -6,11 +6,13 @@ title: Lassi
 ---
 This Indian yogurt drink is awesome.  Salty sounds like it wouldn't taste good, but try it!
 
+
 # Ingredients
 
-* 2 parts milk
-* 4 parts [|yogurt](yogurt.html)
-* 1 part sugar, or less
+ *  2 parts milk
+ *  4 parts [yogurt](yogurt.html)
+ *  1 part sugar, or less
+
 
 # Instructions
 

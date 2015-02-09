@@ -30,7 +30,7 @@ def links(wiki):
     interlink_re = re.compile(r'\[\[([^|\]]*)(|[^\]]*)\]\]')
 
     def interlink_repl(mo):
-        name = mo.group(2) if mo.group(2) else mo.group(1)
+        name = mo.group(2)[1:] if mo.group(2) else mo.group(1)
         if name.startswith('Recipe:'):
             name = name[7:]
         linkname = mo.group(1)
@@ -53,26 +53,33 @@ def links(wiki):
             return '[{}]({})'.format(mo.group(1), mo.group(1))
     wiki = ext_re.sub(ext_repl, wiki)
 
-    http_re = re.compile('(?<![\[(])(http(s)?:[^ ]*)')
-    wiki = http_re.sub(r'[\0](\0)', wiki)
+    http_re = re.compile(r'(?<![\[(])(http(s)?:[^ \n]*)', re.M)
+    wiki = http_re.sub(r'[\1](\1)', wiki)
 
     return wiki
 
 
 def lists(wiki):
-    list_re = re.compile('^#+', re.M)
+    enum_list_re = re.compile('^#+', re.M)
 
-    def list_repl(mo):
-        return ' ' + ' ' * (len(mo.group(0)) - 1) + '1.'
-    return list_re.sub(list_repl, wiki)
+    def enum_list_repl(mo):
+        return ' ' + ' ' * (len(mo.group(0)) - 1) + '1. '
+    wiki = enum_list_re.sub(enum_list_repl, wiki)
 
+    item_list_re = re.compile('^\*+', re.M)
+
+    def item_list_repl(mo):
+        return ' ' + '  ' * (len(mo.group(0)) - 1) + '* '
+    wiki = item_list_re.sub(item_list_repl, wiki)
+
+    return wiki
 
 def headers(wiki):
-    header_re = re.compile('^(=+)(.*)(=+)$', re.M)
+    header_re = re.compile('^(=+)(.*?)(=+)$', re.M)
 
     def header_repl(mo):
         depth = max(len(mo.group(1)), len(mo.group(3)))
-        return '#' * depth + ' ' + mo.group(2) + '\n'
+        return '\n' + '#' * depth + ' ' + mo.group(2) + '\n'
     return header_re.sub(header_repl, wiki)
 
 

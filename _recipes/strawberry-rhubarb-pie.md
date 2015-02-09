@@ -10,7 +10,9 @@ What a great pie, and as easy as apple pie!
 (I'm using the recipe in Irma S. Rombauer's Joy of Cooking .. I should consider typing it in here)
 
 ![](/img/StrawberyRhubarb.JPG)
+
 # Ingredients
+
 
 # Instructions
 
