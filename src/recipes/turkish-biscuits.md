@@ -7,13 +7,13 @@ This recipe is from Sibel Kazak.
 
 # Ingredients
 
-*2 eggs (the yolk of one of them is to brush on the biscuits when you put them on a tray)
-*1/4 C yogurt
-*1/4 C oil (I used sunflower oil)
-*200 g butter (melted) (by my measure, this is about 18 T)
-*1 teaspoon salt
-*1 T baking powder
-*3.5 C flour
+* 2 eggs (the yolk of one of them is to brush on the biscuits when you put them on a tray)
+* 1/4 C yogurt
+* 1/4 C oil (I used sunflower oil)
+* 200 g butter (melted) (by my measure, this is about 18 T)
+* 1 teaspoon salt
+* 1 T baking powder
+* 3.5 C flour
 # Instructions
 
 Mix everything except flour and baking powder. Then add flour and baking 
@@ -25,3 +25,4 @@ Bon appetit! (Afiyet olsun - in Turkish)
 # Notes
 
 This recipe really needs all that butter, frighteningly enough!  The resulting biscuits are extraordinarily tender, with a dry exterior and a moist interior.  As you'll guess from the ingredients, there's not much flavor.  The texture is granular, probably fitting well with a brothy soup or perhaps some steamed veggies.  
+

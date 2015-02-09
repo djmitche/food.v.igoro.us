@@ -7,15 +7,15 @@ This recipe is from [Alton Brown](http://www.foodnetwork.com/food/recipes/recipe
 
 # Ingredients
 
-*3 cups rolled oats 
-*1 cup slivered almonds 
-*1 cup cashews 
-*3/4 cup shredded sweet coconut 
-*1/4 cup plus 2 tablespoons dark brown sugar 
-*1/4 cup plus 2 tablespoons maple syrup 
-*1/4 cup vegetable oil 
-*3/4 teaspoon salt 
-*1 cup raisins
+* 3 cups rolled oats 
+* 1 cup slivered almonds 
+* 1 cup cashews 
+* 3/4 cup shredded sweet coconut 
+* 1/4 cup plus 2 tablespoons dark brown sugar 
+* 1/4 cup plus 2 tablespoons maple syrup 
+* 1/4 cup vegetable oil 
+* 3/4 teaspoon salt 
+* 1 cup raisins
 
 # Instructions
 
@@ -27,3 +27,4 @@ This recipe is from [Alton Brown](http://www.foodnetwork.com/food/recipes/recipe
 # Alterations
 
 I always mix in all sorts of different dried fruits.  Note that the type of oats selected seems particularly key.
+
