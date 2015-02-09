@@ -6,7 +6,7 @@ defaults:
 - scope:
     path: ""
   values:
-    layout: default
+    layout: recipe
 
 exclude:
 - sandbox

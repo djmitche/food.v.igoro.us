@@ -4,7 +4,7 @@ meal: [Dinner]
 title: Sweet Potato Gnocchi
 
 ---
-This is out of the December 2005 ''Bon AppÃ©tit''.  Amber made it, and it's really tasty.  It makes a whole bunch of gnocchi.
+This is out of the December 2005 ''Bon Appetit''.  Amber made it, and it's really tasty.  It makes a whole bunch of gnocchi.
 
 
 # Ingredients
