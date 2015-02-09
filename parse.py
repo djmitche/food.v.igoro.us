@@ -4,21 +4,21 @@ import os
 import yaml
 
 
-all_categories = set()
 all_links = set()
 
-def get_categories(wiki):
+def get_metadata(wiki):
     cat_re = re.compile(r'\[\[Category:([^|]*)(?:|[^\]]*)?\]\]')
     remaining_lines = []
-    categories = []
+    metadata = {}
     for line in wiki.split('\n'):
         mo = cat_re.match(line)
         if mo:
-            categories.append(slugify(mo.group(1)))
-            all_categories.add(slugify(mo.group(1)))
+            if ':' in mo.group(1):
+                typ, name = mo.group(1).split(':', 1)
+                metadata.setdefault(typ.lower(), []).append(name)
         else:
             remaining_lines.append(line)
-    return '\n'.join(remaining_lines), categories
+    return '\n'.join(remaining_lines), metadata
 
 
 def images(wiki):
@@ -89,19 +89,17 @@ def process(filename):
     title = os.path.basename(filename)[:-4].replace('_', ' ')
     with open(filename) as f:
         wiki = f.read()
-        wiki, categories = get_categories(wiki)
+        wiki, metadata = get_metadata(wiki)
+        metadata['title'] = title
         wiki = images(wiki)
         wiki = links(wiki)
         wiki = lists(wiki)
         wiki = headers(wiki)
         wiki = notoc(wiki)
         dest_filename = slugify(title) + '.md'
-        with open('src/recipes/' + dest_filename, 'w') as d:
+        with open('_recipes/' + dest_filename, 'w') as d:
             print >>d, '---'
-            print >>d, yaml.dump({
-                'title': title,
-                'categories': [slugify(c) for c in categories],
-            })
+            print >>d, yaml.dump(metadata)
             print >>d, '---'
             print >>d, wiki
 
@@ -109,14 +107,10 @@ def main():
     for f in sys.argv[1:]:
         process(f)
 
-    print "Categories:"
-    for category in all_categories:
-        print category
-
     print
     print "Unresolved Links:"
     for link in all_links:
-        if not os.path.exists("recipes/" + link + ".md"):
+        if not os.path.exists("_recipes/" + link + ".md"):
             print link
 
 if __name__ == "__main__":

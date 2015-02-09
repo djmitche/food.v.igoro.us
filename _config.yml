@@ -1,1 +1,14 @@
-source: src
+collections:
+  recipes:
+    output: true
+
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: default
+
+exclude:
+- sandbox
+- wiki
+- parse.py

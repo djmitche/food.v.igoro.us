@@ -1,0 +1,16 @@
+---
+title: Food
+---
+<div id="home">
+    <ul>
+        <li><a href="by_ingredient.html">By Ingredient</a></li>
+        <li><a href="by_meal.html">By Meal</a></li>
+        <li><a href="by_cookbook.html">By Cookbook</a></li>
+    </ul>
+<h1>Recipes</h1>
+<ul class="posts">
+{% for post in site.recipes %}
+<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+</div>
