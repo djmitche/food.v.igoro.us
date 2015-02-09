@@ -29,7 +29,7 @@ This is out of the December 2005 ''Bon Appetit''.  Amber made it, and it's reall
  1.  mix in flour until a soft dough forms
  1.  gnocchi them, and boil them in salted water
  1.  carmelize butter and add sage, pepper and salt
- 1.  sautÃ© gnocchi until heated through
+ 1.  sautee gnocchi until heated through
 
 
 # Notes
