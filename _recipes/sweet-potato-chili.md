@@ -1,6 +1,6 @@
 ---
 favorites: [Sarah]
-ingredient: [Yam]
+ingredient: [Sweet Potato]
 meal: [Dinner]
 title: Sweet Potato Chili
 
