@@ -1,8 +1,6 @@
 ---
 meal: [Dinner]
-ingredient: [Sweet Potato]
-ingredient: [Rice]
-ingredient: [Black Beans]
+ingredient: [Sweet Potato, Rice, Black Beans]
 title: Sweet Potato Burrito Bowls
 
 ---
