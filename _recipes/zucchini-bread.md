@@ -7,20 +7,20 @@ meal:
 ---
 
 This recipe seems way too complicated to me, and anyway came out with a distinct tinny flavor from the soda.
-It makes two 4x8" pans
+It makes one 4x8" pan (divided in half, hence the egg-and-a-half)
 
 # Ingredients
 
- * 3 C all-purpose flower
- * 1 t salt
- * 1 t baking soda
- * 1 t baking powder
- * 1 t cinnamon
- * 3 eggs
- * 1 C vegetable oil
- * 2&frac14; C white sugar
- * 3 T vanilla extract
- * 2 C grated zucchini
+ * 1.5 C all-purpose flower
+ * &frac12; t salt
+ * &frac12; t baking soda
+ * &frac12; t baking powder
+ * &frac12; t cinnamon
+ * 1.5 eggs (I've tried with 2..)
+ * &frac12; C vegetable oil
+ * 1 C white sugar
+ * 1&frac12; T vanilla extract
+ * 1 C grated zucchini
 
 # Instructions
 
