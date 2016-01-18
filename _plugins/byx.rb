@@ -17,7 +17,7 @@ module ByX
             end
           end
         end
-        matches = page.data['matches'] = matchmap.map {|x, y| [x, y]}.sort
+        page.data['matches'] = matchmap.map {|x, y| [x, y]}.sort
       end
     end
   end
