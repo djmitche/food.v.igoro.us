@@ -1,5 +1,10 @@
 ---
 favorites: [Dustin]
+ingredient:
+ - Mushrooms, Shiitake
+ - Cheese, Fontina
+ - Cheese, Goat
+ - Cheese, Parmesean
 meal: [Brunch]
 title: Mushroom and Three Cheese Strata
 
