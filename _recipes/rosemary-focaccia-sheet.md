@@ -6,7 +6,7 @@ title: Rosemary Focaccia Sheet
 ---
 This, too, is from Rose Levy Berenbaum's Bread Bible.  It's a difficult recipe, because the dough is so wet.  It has a few of my modifications in it.
 
-![](/img/P1010007.JPG)
+<img src="/img/P1010007.JPG" style="width: 400px"/>
 
 # Ingredients
 
@@ -24,6 +24,7 @@ This, too, is from Rose Levy Berenbaum's Bread Bible.  It's a difficult recipe, 
 # Instructions
 
 A kitchenaid is required for this recipe.  Trust me.  You'll also want a silpat.
+
  1.  proof the yeast in the water
  1.  Combine the flour, sugar, and gluten in the mixer
  1.  With the mixer at #2, add the yeasty water slowly.  I use the paddle instead of the hook, as the dough is essentially a batter.
