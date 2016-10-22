@@ -27,6 +27,7 @@ This is the recipe for pie crust that I always follow.  For a slightly different
   1.  Cut the dough into two equal-sized chunks.  Stick each chunk in the middle of a piece of plastic-wrap, squish it into a disc-like shape with your fingers, wrap the plastic around it and toss it in the fridge.  It should stay in there for a few hours -- long enough to re-freeze the butter.
  1.  Part II
   1.  Remove the dough from the fridge, plop it down on a lightly floured board, and start rolling.
+  1.  Once the crust is flat and about 8" on a side, wet half of it, fold it over, wet half of the remainder, and fold again, then keep rolling.  This adds more layers, and also gets you some edges that aren't all dried out
   1.  Work quickly but carefully.  If the edges of the round start to crumble, tuck them back toward the center until the cracks disappear.  Working the dough like this makes the edges a tiny bit tougher (for all the reasons mentioned above) which helps them to hold together.
   1.  When you're ready to transfer to the pie plate, fold the dough in half across its center, then fold that in half again, leaving a right-angle wedge of dough.  Position the center of the wedge in the center of the pie plate, and gently unfold.
 
